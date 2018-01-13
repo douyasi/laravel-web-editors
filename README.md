@@ -46,7 +46,7 @@
 
 >   `Summernote` 轻量级编辑器。
 
--官方网站：https://summernote.org/ 。
+- 官方网站：https://summernote.org/ 。
 - 扩展包地址：https://github.com/overtrue/laravel-summernote
 
 ## TinyMCE
