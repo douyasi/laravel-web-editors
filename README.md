@@ -20,7 +20,7 @@
 - 官方网站：https://ckeditor.com/ 。
 - 演示视频：
 - 演示链接：
-- 扩展包地址：https://github.com/douyasi/laravel-ckeditor [目前处于开发中，距离可用需要一段时间]
+- 扩展包地址：https://github.com/douyasi/laravel-ckeditor
 
 ## wangEditor
 
@@ -45,6 +45,22 @@
 ## Summernote 
 
 >   `Summernote` 轻量级编辑器。
+
+这个包似乎未被作者推送到 `https://packagist.org` ，所以在使用时可以添加 `repositories` 相关配置代码。
+
+```json
+{
+    "require": {
+        "overtrue/laravel-summernote": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/overtrue/laravel-summernote.git"
+        }
+    ]
+}
+```
 
 - 官方网站：https://summernote.org/ 。
 - 扩展包地址：https://github.com/overtrue/laravel-summernote
