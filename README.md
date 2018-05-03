@@ -18,7 +18,7 @@
 
 - 推荐指数：☆☆☆☆☆
 - 官方网站：https://ckeditor.com/ 。
-- 演示视频：
+- 演示动图：https://www.yascmf.com/uploads/content/20180503/5aeb2a713fcf5_45o.gif
 - 演示链接：
 - 扩展包地址：https://github.com/douyasi/laravel-ckeditor
 
