@@ -49,7 +49,10 @@
 
 >   `Summernote` 轻量级编辑器。
 
-这个包似乎未被作者推送到 `https://packagist.org` ，所以在使用时可以添加 `repositories` 相关配置代码。
+<del>这个包似乎未被作者推送到 `https://packagist.org` ，所以在使用时可以添加 `repositories` 相关配置代码。</del>
+
+忽略下面配置，直接在工程目录终端下执行 `composer require "overtrue/laravel-summernote"` 命令。
+
 
 ```json
 {
@@ -64,6 +67,7 @@
     ]
 }
 ```
+
 
 - 官方网站：https://summernote.org/ 。
 - 扩展包地址：https://github.com/overtrue/laravel-summernote
