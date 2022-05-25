@@ -6,10 +6,8 @@
 
 > `editor.md` 是一款高度可定制化的 `markdown` 编辑器。可惜，目前 `editor.md` 官方处于非积极维护状态。
 
-- 推荐指数：☆☆☆☆☆
+- 推荐指数：☆☆☆☆
 - 官方网站：https://pandao.github.io/editor.md/ 
-- 演示视频：
-- 演示链接：
 - 扩展包地址： https://github.com/douyasi/laravel-editor-md
 
 ## CKEditor
@@ -22,7 +20,6 @@
 
 ![gif](http://s1.ystatic.cn/uploads/content/20180503/5aeb2a713fcf5_45o.gif)
 
-- 演示链接：
 - 扩展包地址：https://github.com/douyasi/laravel-ckeditor
 
 ## wangEditor
@@ -32,17 +29,14 @@
 - 推荐指数：☆☆☆☆
 - 官方网站：https://www.wangeditor.com/ 。
 - 演示视频：http://s1.ystatic.cn/v/9067ff068918189ef850da17acb1d806.mp4
-- 演示链接：
 - 扩展包地址：https://github.com/douyasi/laravel-wang-editor
 
 ## UEditor
 
->   `UEditor` 是百度推出的一套开源的在线HTML编辑器。官方目前停止状态，不建议使用。
+>   `UEditor` 是百度推出的一套开源的在线HTML编辑器。官方目前处于停止维护状态，不建议使用。
 
 - 推荐指数：☆☆
 - 官方网站：http://ueditor.baidu.com/ 。
-- 演示视频：
-- 演示链接：
 - 扩展包地址：https://github.com/overtrue/laravel-ueditor
 
 ## Summernote 
@@ -67,7 +61,6 @@
     ]
 }
 ```
-
 
 - 官方网站：https://summernote.org/ 。
 - 扩展包地址：https://github.com/overtrue/laravel-summernote
